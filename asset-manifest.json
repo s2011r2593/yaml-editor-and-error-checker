@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yaml-editor-and-error-checker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/yaml-editor-and-error-checker/static/js/main.d47d7bb7.chunk.js",
+    "main.js.map": "/yaml-editor-and-error-checker/static/js/main.d47d7bb7.chunk.js.map",
+    "runtime-main.js": "/yaml-editor-and-error-checker/static/js/runtime-main.30366b49.js",
+    "runtime-main.js.map": "/yaml-editor-and-error-checker/static/js/runtime-main.30366b49.js.map",
+    "static/js/2.ed931033.chunk.js": "/yaml-editor-and-error-checker/static/js/2.ed931033.chunk.js",
+    "static/js/2.ed931033.chunk.js.map": "/yaml-editor-and-error-checker/static/js/2.ed931033.chunk.js.map",
+    "index.html": "/yaml-editor-and-error-checker/index.html",
+    "precache-manifest.a9f1e2877b3e129e85d369d29504cd22.js": "/yaml-editor-and-error-checker/precache-manifest.a9f1e2877b3e129e85d369d29504cd22.js",
+    "service-worker.js": "/yaml-editor-and-error-checker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/yaml-editor-and-error-checker/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ed931033.chunk.js.LICENSE.txt": "/yaml-editor-and-error-checker/static/js/2.ed931033.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30366b49.js",
+    "static/js/2.ed931033.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d47d7bb7.chunk.js"
+  ]
+}
